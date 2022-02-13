@@ -1,0 +1,803 @@
+{
+    "medical": [{
+            "x": "Concurrent Conditions",
+            "value": 1.0
+        },
+        {
+            "x": "blood pressure",
+            "value": 0.3947381467832295
+        },
+        {
+            "x": "high blood",
+            "value": 0.2951694733189007
+        },
+        {
+            "x": "Relevant",
+            "value": 0.2515906198872932
+        },
+        {
+            "x": "adverse",
+            "value": 0.22118292541851894
+        },
+        {
+            "x": "reported",
+            "value": 0.17616631686800746
+        },
+        {
+            "x": "high cholesterol",
+            "value": 0.14868371039976203
+        },
+        {
+            "x": "non encoded",
+            "value": 0.12250665168316505
+        },
+        {
+            "x": "Comments List",
+            "value": 0.1224074961577234
+        },
+        {
+            "x": "Comments Unknown",
+            "value": 0.11890400092545157
+        },
+        {
+            "x": "Migraine",
+            "value": 0.1039976202673894
+        },
+        {
+            "x": "Unknown Comment",
+            "value": 0.10049412503511758
+        },
+        {
+            "x": "pressure high",
+            "value": 0.09185106840078663
+        },
+        {
+            "x": "Type diabete",
+            "value": 0.08874419527028143
+        },
+        {
+            "x": "provided",
+            "value": 0.08811621027581762
+        },
+        {
+            "x": "known allergies",
+            "value": 0.08809968435491068
+        },
+        {
+            "x": "Conditions COVID",
+            "value": 0.08763695856951628
+        },
+        {
+            "x": "pain",
+            "value": 0.07096230437441127
+        },
+        {
+            "x": "apnea",
+            "value": 0.06937581596734478
+        },
+        {
+            "x": "seasonal allergie",
+            "value": 0.0661202095486771
+        },
+        {
+            "x": "diabetes mellitus",
+            "value": 0.06458329890433144
+        },
+        {
+            "x": "Penicillin allergy",
+            "value": 0.06331080299449687
+        },
+        {
+            "x": "arthriti",
+            "value": 0.06296375865545108
+        },
+        {
+            "x": "breast cancer",
+            "value": 0.06065012972847912
+        },
+        {
+            "x": "Rheumatoid arthritis",
+            "value": 0.059658574474062566
+        },
+        {
+            "x": "Conditions Allergy",
+            "value": 0.05823734527606551
+        },
+        {
+            "x": "allergy Known",
+            "value": 0.05764241212341558
+        },
+        {
+            "x": "kidney disease",
+            "value": 0.055460990563699165
+        },
+        {
+            "x": "years ago",
+            "value": 0.05407281320751599
+        },
+        {
+            "x": "Conditions Blood",
+            "value": 0.05233759151228702
+        },
+        {
+            "x": "Hypothyroidism",
+            "value": 0.050090066268942836
+        },
+        {
+            "x": "diagnosed",
+            "value": 0.04686751169208904
+        },
+        {
+            "x": "Hx",
+            "value": 0.04528102328502256
+        },
+        {
+            "x": "atrial fibrillation",
+            "value": 0.04514881591776702
+        },
+        {
+            "x": "osteoarthritis",
+            "value": 0.044173786584257406
+        },
+        {
+            "x": "depression anxiety",
+            "value": 0.04283518699079506
+        },
+        {
+            "x": "reporter",
+            "value": 0.0417610021318438
+        },
+        {
+            "x": "Sulfonamide allergy",
+            "value": 0.04113301713737998
+        },
+        {
+            "x": "Anxiety Depression",
+            "value": 0.04108343937465915
+        },
+        {
+            "x": "Acid reflux",
+            "value": 0.04070334319379947
+        },
+        {
+            "x": "Hypertension",
+            "value": 0.040124935962056484
+        },
+        {
+            "x": "Conditions Asthma",
+            "value": 0.03972831386028986
+        },
+        {
+            "x": "coronary artery",
+            "value": 0.03939779544215102
+        },
+        {
+            "x": "medication",
+            "value": 0.038356662425013635
+        },
+        {
+            "x": "chronic kidney",
+            "value": 0.038224455057758094
+        },
+        {
+            "x": "anemia",
+            "value": 0.037480788616945676
+        },
+        {
+            "x": "Fibromyalgia",
+            "value": 0.0372163738824346
+        },
+        {
+            "x": "Asthma",
+            "value": 0.036257870469831935
+        },
+        {
+            "x": "allergic rhinitis",
+            "value": 0.03571251507990283
+        },
+        {
+            "x": "COPD",
+            "value": 0.035348944819950094
+        },
+        {
+            "x": "reporter Comments",
+            "value": 0.03523326337360149
+        },
+        {
+            "x": "Obesity",
+            "value": 0.034638330220951564
+        },
+        {
+            "x": "Osteoporosis",
+            "value": 0.033927715621953035
+        },
+        {
+            "x": "artery disease",
+            "value": 0.03331625654839616
+        },
+        {
+            "x": "chronic pain",
+            "value": 0.03273784931665317
+        },
+        {
+            "x": "surgery",
+            "value": 0.03227512353125878
+        },
+        {
+            "x": "Vitamin D",
+            "value": 0.03191155327130604
+        },
+        {
+            "x": "Diabetes High",
+            "value": 0.031531457090446365
+        },
+        {
+            "x": "CMS HCC",
+            "value": 0.031068731305051975
+        },
+        {
+            "x": "D deficiency",
+            "value": 0.030804316570540894
+        },
+        {
+            "x": "s p",
+            "value": 0.030490324073308987
+        },
+        {
+            "x": "failure",
+            "value": 0.03019285749698402
+        },
+        {
+            "x": "Diabetes Type",
+            "value": 0.029697079869775742
+        },
+        {
+            "x": "COVID Prior",
+            "value": 0.02954834658161326
+        },
+        {
+            "x": "HTN",
+            "value": 0.029201302242567468
+        },
+        {
+            "x": "issue",
+            "value": 0.029069094875311927
+        },
+        {
+            "x": "Psoriasis",
+            "value": 0.028292376592685627
+        },
+        {
+            "x": "Hypothyroid",
+            "value": 0.027680917519128753
+        },
+        {
+            "x": "Diabetic",
+            "value": 0.02753218423096627
+        },
+        {
+            "x": "Diabetes Hypertension",
+            "value": 0.027300821338269075
+        },
+        {
+            "x": "IB",
+            "value": 0.026871147394688568
+        },
+        {
+            "x": "hypertension hyperlipidemia",
+            "value": 0.026309266083852523
+        },
+        {
+            "x": "Essential hypertension",
+            "value": 0.026144006874783098
+        },
+        {
+            "x": "Drug allergy",
+            "value": 0.0252516071458082
+        },
+        {
+            "x": "N",
+            "value": 0.0251359256994596
+        },
+        {
+            "x": "seizure",
+            "value": 0.025036770174017946
+        },
+        {
+            "x": "neuropathy",
+            "value": 0.02490456280676241
+        },
+        {
+            "x": "stroke",
+            "value": 0.02478888136041381
+        },
+        {
+            "x": "past",
+            "value": 0.024557518467716612
+        },
+        {
+            "x": "anxiety disorder",
+            "value": 0.02432615557501942
+        },
+        {
+            "x": "reflux disease",
+            "value": 0.023797326105997257
+        },
+        {
+            "x": "mitral valve",
+            "value": 0.023648592817834775
+        },
+        {
+            "x": "Irritable bowel",
+            "value": 0.023599015055113946
+        },
+        {
+            "x": "GERD",
+            "value": 0.023119763348812612
+        },
+        {
+            "x": "Food allergy",
+            "value": 0.022888400456115416
+        },
+        {
+            "x": "Type II",
+            "value": 0.022822296772487646
+        },
+        {
+            "x": "Multiple Sclerosis",
+            "value": 0.022557882037976568
+        },
+        {
+            "x": "drug abuse",
+            "value": 0.022524830196162682
+        },
+        {
+            "x": "fib",
+            "value": 0.022392622828907142
+        },
+        {
+            "x": "Ulcerative colitis",
+            "value": 0.022309993224372427
+        },
+        {
+            "x": "mild",
+            "value": 0.022293467303465486
+        },
+        {
+            "x": "Eczema",
+            "value": 0.022293467303465486
+        },
+        {
+            "x": "Glaucoma",
+            "value": 0.021880319280791923
+        },
+        {
+            "x": "Epilepsy",
+            "value": 0.021301912049048934
+        },
+        {
+            "x": "bowel syndrome",
+            "value": 0.021235808365421164
+        },
+        {
+            "x": "Afib",
+            "value": 0.021120126919072564
+        },
+        {
+            "x": "Overweight",
+            "value": 0.02108707507725868
+        },
+        {
+            "x": "kidney stone",
+            "value": 0.02102097139363091
+        },
+        {
+            "x": "Celiac disease",
+            "value": 0.020921815868189256
+        },
+        {
+            "x": "reported Comments",
+            "value": 0.020855712184561486
+        },
+        {
+            "x": "illicit drug",
+            "value": 0.020855712184561486
+        },
+        {
+            "x": "Unknown",
+            "value": 0.020673927054585116
+        },
+        {
+            "x": "gastroesophageal reflux",
+            "value": 0.020475616003701805
+        },
+        {
+            "x": "Conditions Penicillin",
+            "value": 0.02042603824098098
+        },
+        {
+            "x": "Endometriosis",
+            "value": 0.020409512320074034
+        },
+        {
+            "x": "remission",
+            "value": 0.020293830873725438
+        },
+        {
+            "x": "problem",
+            "value": 0.020227727190097668
+        },
+        {
+            "x": "headache",
+            "value": 0.020211201269190727
+        },
+        {
+            "x": "depressive disorder",
+            "value": 0.020012890218307416
+        },
+        {
+            "x": "anxiety",
+            "value": 0.019946786534679645
+        },
+        {
+            "x": "Lupu",
+            "value": 0.019946786534679645
+        },
+        {
+            "x": "Chronic migraine",
+            "value": 0.019318801540215827
+        },
+        {
+            "x": "knee",
+            "value": 0.019285749698401942
+        },
+        {
+            "x": "Asthma High",
+            "value": 0.01918659417296029
+        },
+        {
+            "x": "Conditions Anxiety",
+            "value": 0.019103964568425575
+        },
+        {
+            "x": "treated",
+            "value": 0.018889127596635323
+        },
+        {
+            "x": "Psoriatic arthritis",
+            "value": 0.01880649799210061
+        },
+        {
+            "x": "prior",
+            "value": 0.01836029812761316
+        },
+        {
+            "x": "prostate cancer",
+            "value": 0.01836029812761316
+        },
+        {
+            "x": "attack",
+            "value": 0.018261142602171505
+        },
+        {
+            "x": "spinal stenosis",
+            "value": 0.018112409314009023
+        },
+        {
+            "x": "information",
+            "value": 0.018062831551288197
+        },
+        {
+            "x": "High BP",
+            "value": 0.017980201946753482
+        },
+        {
+            "x": "Osteopenia",
+            "value": 0.017616631686800745
+        },
+        {
+            "x": "PCO",
+            "value": 0.01743484655682438
+        },
+        {
+            "x": "Gout",
+            "value": 0.017302639189568838
+        },
+        {
+            "x": "mild asthma",
+            "value": 0.01712085405959247
+        },
+        {
+            "x": "disc disease",
+            "value": 0.016939068929616104
+        },
+        {
+            "x": "See",
+            "value": 0.016889491166895275
+        },
+        {
+            "x": "Morbid obesity",
+            "value": 0.01683991340417445
+        },
+        {
+            "x": "insomnia",
+            "value": 0.016691180116011964
+        },
+        {
+            "x": "vertigo",
+            "value": 0.01659202459057031
+        },
+        {
+            "x": "Depression",
+            "value": 0.016492869065128653
+        },
+        {
+            "x": "Asthma Asthma",
+            "value": 0.016443291302407827
+        },
+        {
+            "x": "degenerative disc",
+            "value": 0.01641023946059394
+        },
+        {
+            "x": "Latex allergy",
+            "value": 0.016360661697873115
+        },
+        {
+            "x": "fatty liver",
+            "value": 0.016311083935152286
+        },
+        {
+            "x": "health condition",
+            "value": 0.016244980251524516
+        },
+        {
+            "x": "Bipolar disorder",
+            "value": 0.01619540248880369
+        },
+        {
+            "x": "h o",
+            "value": 0.016046669200641205
+        },
+        {
+            "x": "pre diabete",
+            "value": 0.01601361735882732
+        },
+        {
+            "x": "Iron deficiency",
+            "value": 0.015815306307944012
+        },
+        {
+            "x": "COVID Yes",
+            "value": 0.015798780387037067
+        },
+        {
+            "x": "Seasonal allergy",
+            "value": 0.015699624861595412
+        },
+        {
+            "x": "HBP",
+            "value": 0.015666573019781527
+        },
+        {
+            "x": "Hypertension High",
+            "value": 0.015666573019781527
+        },
+        {
+            "x": "major depressive",
+            "value": 0.015567417494339873
+        },
+        {
+            "x": "induced asthma",
+            "value": 0.015534365652525988
+        },
+        {
+            "x": "Asthma Hypertension",
+            "value": 0.015517839731619045
+        },
+        {
+            "x": "Hashimoto thyroiditis",
+            "value": 0.015501313810712103
+        },
+        {
+            "x": "valve prolapse",
+            "value": 0.015319528680735734
+        },
+        {
+            "x": "Thyroid disorder",
+            "value": 0.01517079539257325
+        },
+        {
+            "x": "Hypertension Hypothyroidism",
+            "value": 0.015137743550759366
+        },
+        {
+            "x": "Hashimoto disease",
+            "value": 0.015121217629852423
+        },
+        {
+            "x": "allergy Comments",
+            "value": 0.01503858802531771
+        },
+        {
+            "x": "Pneumonia",
+            "value": 0.015005536183503827
+        },
+        {
+            "x": "asthma allergies",
+            "value": 0.014972484341689941
+        },
+        {
+            "x": "restless leg",
+            "value": 0.014922906578969114
+        },
+        {
+            "x": "hearing loss",
+            "value": 0.014823751053527458
+        },
+        {
+            "x": "cholesterol high",
+            "value": 0.014807225132620516
+        },
+        {
+            "x": "eye",
+            "value": 0.01477417329080663
+        },
+        {
+            "x": "Scoliosis",
+            "value": 0.014741121448992745
+        },
+        {
+            "x": "long term",
+            "value": 0.014526284477202491
+        },
+        {
+            "x": "RA",
+            "value": 0.01444365487266778
+        },
+        {
+            "x": "Congestive",
+            "value": 0.01431144750541224
+        },
+        {
+            "x": "med",
+            "value": 0.01431144750541224
+        },
+        {
+            "x": "Hyperlipidemia Hypertension",
+            "value": 0.01431144750541224
+        },
+        {
+            "x": "Conditions Arthritis",
+            "value": 0.014261869742691412
+        },
+        {
+            "x": "Generalized anxiety",
+            "value": 0.014179240138156699
+        },
+        {
+            "x": "Thyroid disease",
+            "value": 0.014162714217249756
+        },
+        {
+            "x": "dementia",
+            "value": 0.014096610533621986
+        },
+        {
+            "x": "Lyme disease",
+            "value": 0.014047032770901158
+        },
+        {
+            "x": "control",
+            "value": 0.013980929087273388
+        },
+        {
+            "x": "disease hypertension",
+            "value": 0.013980929087273388
+        },
+        {
+            "x": "murmur",
+            "value": 0.013947877245459503
+        },
+        {
+            "x": "Migraine headache",
+            "value": 0.013947877245459503
+        },
+        {
+            "x": "Pre diabetic",
+            "value": 0.013881773561831732
+        },
+        {
+            "x": "peripheral neuropathy",
+            "value": 0.013799143957297021
+        },
+        {
+            "x": "na",
+            "value": 0.013766092115483136
+        },
+        {
+            "x": "Shellfish allergy",
+            "value": 0.013551255143692882
+        },
+        {
+            "x": "Diverticuliti",
+            "value": 0.013518203301878997
+        },
+        {
+            "x": "Crohn disease",
+            "value": 0.013319892250995686
+        },
+        {
+            "x": "disease stage",
+            "value": 0.013187684883740147
+        },
+        {
+            "x": "Thyroid",
+            "value": 0.013105055279205434
+        },
+        {
+            "x": "Thyroid cancer",
+            "value": 0.013072003437391549
+        },
+        {
+            "x": "M",
+            "value": 0.01295632199104295
+        },
+        {
+            "x": "Hypertension Diabetes",
+            "value": 0.01295632199104295
+        },
+        {
+            "x": "seizure disorder",
+            "value": 0.012774536861066582
+        },
+        {
+            "x": "Graves disease",
+            "value": 0.012708433177438814
+        },
+        {
+            "x": "environmental allergies",
+            "value": 0.012708433177438814
+        },
+        {
+            "x": "allergies Comment",
+            "value": 0.012708433177438814
+        },
+        {
+            "x": "Ehlers Danlo",
+            "value": 0.0126258035729041
+        },
+        {
+            "x": "aortic valve",
+            "value": 0.012592751731090215
+        },
+        {
+            "x": "BPH",
+            "value": 0.012543173968369388
+        },
+        {
+            "x": "low",
+            "value": 0.012460544363834675
+        },
+        {
+            "x": "now",
+            "value": 0.012377914759299962
+        },
+        {
+            "x": "year",
+            "value": 0.012377914759299962
+        },
+        {
+            "x": "COVID Comments",
+            "value": 0.01236138883839302
+        },
+        {
+            "x": "unknown unknown",
+            "value": 0.012344862917486077
+        },
+        {
+            "x": "hip",
+            "value": 0.012311811075672191
+        }
+    ]
+}

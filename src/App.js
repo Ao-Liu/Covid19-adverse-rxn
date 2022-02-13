@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import DemoWordCloud from './components/DemoWordCloud.js'
+import DemoWordCloud from './components/WordCloud/DemoWordCloud'
 
 function App() {
   return (
