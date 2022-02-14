@@ -1,30 +1,43 @@
 import React, {
   useState,
   useEffect
-} from 'react';
+} from 'react'
 import {
   WordCloud
-} from '@ant-design/plots';
+} from '@ant-design/plots'
+import './WordCloud.css'
+import { Button } from '@material-ui/core/'
+import { Typography } from '@mui/material'
 
 const {
   medical
-} = require('./medical-history.json');
+} = require('./medical-history.json')
 const {
   symptoms
-} = require('./symptoms.json');
+} = require('./symptoms.json')
 
 const DemoWordCloud = () => {
-  const [data, setData] = useState([]);
+  const [data, setData] = useState([])
+  const [displayingMed, setDisplay] = useState(true)
+  let medis = medical
+  let symps = symptoms
 
   useEffect(() => {
-    setJson();
-  }, []);
+    setJson()
+  }, [])
 
   const setJson = () => {
-    let medis = medical
-    let symps = symptoms
-    setData(symps)
-  };
+    setData(medis)
+  }
+
+  const onSwitchClicked = () => {
+      if (displayingMed) {
+        setData(symps)
+      } else {
+        setData(medis)
+      }
+      setDisplay(!displayingMed)
+  }
 
   const config = {
     data,
@@ -46,11 +59,15 @@ const DemoWordCloud = () => {
       },
     },
   }
-  return ( <
-    WordCloud {
-      ...config
-    }
-    />
+
+  return ( 
+    <header className="App-header">
+      <Typography color="#3F51B5" variant="h3">{displayingMed ? "Medical History" : "Symptoms"} Word Cloud</Typography>
+      <br/>
+      <WordCloud {...config}/>
+      <br/>
+      <Button color="primary" variant="contained" onClick={onSwitchClicked}>Switch</Button>
+    </header>
   )
 }
 
