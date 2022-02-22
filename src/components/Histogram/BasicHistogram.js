@@ -35,6 +35,7 @@ const BasicHistogram = () => {
         data,
         width: 500,
         height: 500,
+        color: '#424242',
         xField: xField,
         yField: yField,
         xAxis: {
@@ -43,14 +44,26 @@ const BasicHistogram = () => {
                 autoRotate: true,
             },
         }
-    };
+    }
+
+    const typoStyle = {
+        color: "#424242",
+        fontFamily: 'Poppins',
+        fontWeight: 700
+    }
+
+    const btnStyle = {
+        backgroundColor: "#424242",
+        fontFamily: 'Poppins'
+    }
+
     return (
         <div>
-            <Typography color="#1875d2" variant="h3">{displayingAge ? "Case Fatality Ratios by Age" : "Days after Vaccination in Case Fatality"}</Typography>
+            <Typography style={typoStyle} variant="h3">{displayingAge ? "Case Fatality Ratios by Age" : "Days after Vaccination in Case Fatality"}</Typography>
             <br/>
             <Column { ...config } />
             <br/>
-            <Button className="switch-btn" color="primary" variant="contained" disableElevation onClick={onSwitchClicked}>Switch Dataset</Button>
+            <Button style={btnStyle} variant="contained" disableElevation onClick={onSwitchClicked}>Switch Dataset</Button>
         </div>
     )
 };

@@ -16,6 +16,7 @@ const GroupedHistogram = () => {
         data,
         width: 500,
         height: 500,
+        color: ['#424242', '#19CDD7'],
         isGroup: true,
         xField: 'age',
         yField: 'cnt',
@@ -26,12 +27,21 @@ const GroupedHistogram = () => {
                 autoRotate: false,
             },
         }
-    };
+    }
+
+    const typoStyle = {
+        color: "#424242",
+        fontFamily: 'Poppins',
+        fontWeight: 700
+    }
+
     return (
         <div>
-            <Typography color="#1875d2" variant="h3">Case Fatality Number by Age and Sex</Typography>
+            <Typography style={typoStyle} variant="h3">Case Fatality Number by Age and Sex</Typography>
             <br/>
             <Column { ...config }/>
+            <br/>
+            <br/>
         </div>
     )
 };

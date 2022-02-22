@@ -1,803 +1,719 @@
 {
     "symptoms": [{
-            "x": "reported",
-            "value": 1.0
+            "x": "SARS-CoV-2 test positive",
+            "value": 309
         },
         {
-            "x": "Moderna COVID",
-            "value": 0.8039050386138167
+            "x": " Headache",
+            "value": 199
         },
         {
-            "x": "mRNA Moderna",
-            "value": 0.7329850813675162
+            "x": " Pyrexia",
+            "value": 188
         },
         {
-            "x": "COVID",
-            "value": 0.48884941364204315
+            "x": " Fatigue",
+            "value": 141
         },
         {
-            "x": "first dose",
-            "value": 0.46952594577506135
+            "x": " Chills",
+            "value": 139
         },
         {
-            "x": "year old",
-            "value": 0.4233941017959565
+            "x": " Pain",
+            "value": 133
         },
         {
-            "x": "pain",
-            "value": 0.40719887997350473
+            "x": " Dyspnoea",
+            "value": 131
         },
         {
-            "x": "concomitant medication",
-            "value": 0.40676231050627004
+            "x": " Dizziness",
+            "value": 126
         },
         {
-            "x": "outcome",
-            "value": 0.33179279509837867
+            "x": " Pain in extremity",
+            "value": 114
         },
         {
-            "x": "second dose",
-            "value": 0.32680385987625515
+            "x": " Nausea",
+            "value": 112
         },
         {
-            "x": "Lot Number",
-            "value": 0.32497026811386936
+            "x": " Death",
+            "value": 111
         },
         {
-            "x": "unknown",
-            "value": 0.3241814322489349
+            "x": " Injection site pain",
+            "value": 78
         },
         {
-            "x": "spontaneous report",
-            "value": 0.30824815210682405
+            "x": " Malaise",
+            "value": 78
         },
         {
-            "x": "events",
-            "value": 0.30420461559305706
+            "x": " Cough",
+            "value": 75
         },
         {
-            "x": "dosage form",
-            "value": 0.29773435500624745
+            "x": " Asthenia",
+            "value": 70
         },
         {
-            "x": "days",
-            "value": 0.2967678805305072
+            "x": " COVID-19",
+            "value": 70
         },
         {
-            "x": "unknown date",
-            "value": 0.2904632152588556
+            "x": " SARS-CoV-2 test negative",
+            "value": 70
         },
         {
-            "x": "PFIZER BIONTECH",
-            "value": 0.2807171782558297
+            "x": " Hypoaesthesia",
+            "value": 70
         },
         {
-            "x": "BIONTECH COVID",
-            "value": 0.2762220181552682
+            "x": " Myalgia",
+            "value": 69
         },
         {
-            "x": "occurrence",
-            "value": 0.270049829135743
+            "x": " Paraesthesia",
+            "value": 64
         },
         {
-            "x": "BNT162B2 PFIZER",
-            "value": 0.2627305162057597
+            "x": " Rash",
+            "value": 58
         },
         {
-            "x": "received first",
-            "value": 0.2578228732292592
+            "x": " Arthralgia",
+            "value": 55
         },
         {
-            "x": "unspecified route",
-            "value": 0.25728092492510574
+            "x": " Feeling abnormal",
+            "value": 55
         },
         {
-            "x": "provided",
-            "value": 0.24424405738630375
+            "x": " Flushing",
+            "value": 54
         },
         {
-            "x": "old female",
-            "value": 0.24262122329775543
+            "x": " Tachycardia",
+            "value": 52
         },
         {
-            "x": "information",
-            "value": 0.23413069986601834
+            "x": " Urticaria",
+            "value": 51
         },
         {
-            "x": "body ache",
-            "value": 0.22631460099056105
+            "x": " Facial paralysis",
+            "value": 50
         },
         {
-            "x": "describe",
-            "value": 0.22619717885799448
+            "x": " Vomiting",
+            "value": 50
         },
         {
-            "x": "received mRNA",
-            "value": 0.22498682764538516
+            "x": " Anaphylactic reaction",
+            "value": 49
         },
         {
-            "x": "spontaneous case",
-            "value": 0.21810709500654854
+            "x": " Pruritus",
+            "value": 46
         },
         {
-            "x": "action",
-            "value": 0.21028497448326736
+            "x": " Heart rate increased",
+            "value": 45
         },
         {
-            "x": "received",
-            "value": 0.20400439580291146
+            "x": " Palpitations",
+            "value": 45
         },
         {
-            "x": "started",
-            "value": 0.20060517560630467
+            "x": " Chest discomfort",
+            "value": 44
         },
         {
-            "x": "single dose",
-            "value": 0.19507730290393965
+            "x": " Erythema",
+            "value": 42
         },
         {
-            "x": "contactable consumer",
-            "value": 0.18556309934213497
+            "x": " Diarrhoea",
+            "value": 41
         },
         {
-            "x": "follow",
-            "value": 0.18207355442816928
+            "x": " Throat tightness",
+            "value": 41
         },
         {
-            "x": "sore",
-            "value": 0.18095352793291886
+            "x": " Chest pain",
+            "value": 38
         },
         {
-            "x": "Mar",
-            "value": 0.18087825733511975
+            "x": " Blood pressure increased",
+            "value": 38
         },
         {
-            "x": "report",
-            "value": 0.17596760353470728
+            "x": " Oropharyngeal pain",
+            "value": 35
         },
         {
-            "x": "went",
-            "value": 0.1758501814021407
+            "x": " Unresponsive to stimuli",
+            "value": 34
         },
         {
-            "x": "COVID immunisation",
-            "value": 0.17512457283935748
+            "x": " Hyperhidrosis",
+            "value": 34
         },
         {
-            "x": "batch number",
-            "value": 0.17320968883134868
+            "x": " Blood test",
+            "value": 33
         },
         {
-            "x": "got",
-            "value": 0.16228943050265704
+            "x": " Injection site swelling",
+            "value": 33
         },
         {
-            "x": "consumer",
-            "value": 0.16031734084032095
+            "x": " Muscular weakness",
+            "value": 33
         },
         {
-            "x": "felt",
-            "value": 0.15988077137308623
+            "x": " Injection site erythema",
+            "value": 32
         },
         {
-            "x": "unspecified date",
-            "value": 0.1566983304981408
+            "x": " Lymphadenopathy",
+            "value": 32
         },
         {
-            "x": "unknown route",
-            "value": 0.15164616797386604
+            "x": " Feeling hot",
+            "value": 32
         },
         {
-            "x": "Intramuscular dosage",
-            "value": 0.15130594487181417
+            "x": " Immediate post-injection reaction",
+            "value": 30
         },
         {
-            "x": "blood pressure",
-            "value": 0.14779231336655277
+            "x": " Swelling face",
+            "value": 29
         },
         {
-            "x": "headache",
-            "value": 0.14731359236455055
+            "x": " Intensive care",
+            "value": 29
         },
         {
-            "x": "years old",
-            "value": 0.14688304454513978
+            "x": " Condition aggravated",
+            "value": 29
         },
         {
-            "x": "Apr",
-            "value": 0.14381802580276093
+            "x": " Electrocardiogram",
+            "value": 28
         },
         {
-            "x": "shot",
-            "value": 0.1425083174010568
+            "x": " Anosmia",
+            "value": 28
         },
         {
-            "x": "week",
-            "value": 0.13966007798033933
+            "x": " Exposure to SARS-CoV-2",
+            "value": 27
         },
         {
-            "x": "recovered",
-            "value": 0.1366101133575203
+            "x": " Computerised tomogram",
+            "value": 27
         },
         {
-            "x": "route dosage",
-            "value": 0.1338702635976335
+            "x": " Tremor",
+            "value": 27
         },
         {
-            "x": "diagnosed",
-            "value": 0.131187619492074
+            "x": " Dysphagia",
+            "value": 25
         },
         {
-            "x": "COVID immunization",
-            "value": 0.12936306020142413
+            "x": " Respiratory tract congestion",
+            "value": 25
         },
         {
-            "x": "receive",
-            "value": 0.1290499345145799
+            "x": " Laboratory test",
+            "value": 25
         },
         {
-            "x": "attempt",
-            "value": 0.12768302045854849
+            "x": " Hypoaesthesia oral",
+            "value": 25
         },
         {
-            "x": "doctor",
-            "value": 0.1257591039788038
+            "x": " Full blood count",
+            "value": 24
         },
         {
-            "x": "leg",
-            "value": 0.12489499751607028
+            "x": " Syncope",
+            "value": 24
         },
         {
-            "x": "Intramuscular",
-            "value": 0.12157706956508649
+            "x": " Back pain",
+            "value": 23
         },
         {
-            "x": "COVID mRNA",
-            "value": 0.11974046697878875
+            "x": " Pharyngeal swelling",
+            "value": 23
         },
         {
-            "x": "Jan",
-            "value": 0.1172113748927394
+            "x": " Speech disorder",
+            "value": 23
         },
         {
-            "x": "Feb",
-            "value": 0.11697050897978231
+            "x": " Decreased appetite",
+            "value": 22
         },
         {
-            "x": "age",
-            "value": 0.11477862917187288
+            "x": " Injection site pruritus",
+            "value": 22
         },
         {
-            "x": "old male",
-            "value": 0.11472142351754558
+            "x": " Ageusia",
+            "value": 22
         },
         {
-            "x": "Batch Lot",
-            "value": 0.11177683773164526
+            "x": " Metabolic function test",
+            "value": 22
         },
         {
-            "x": "non serious",
-            "value": 0.11005163563009017
+            "x": " SARS-CoV-2 test",
+            "value": 21
         },
         {
-            "x": "hospital",
-            "value": 0.10939226519337017
+            "x": " Impaired work ability",
+            "value": 21
         },
         {
-            "x": "received second",
-            "value": 0.10922968070212413
+            "x": " Chest X-ray",
+            "value": 21
         },
         {
-            "x": "hand",
-            "value": 0.10587562286419679
+            "x": " Magnetic resonance imaging",
+            "value": 21
         },
         {
-            "x": "breath",
-            "value": 0.1058334713294293
+            "x": " Abdominal pain",
+            "value": 21
         },
         {
-            "x": "reporter",
-            "value": 0.10462312011681997
+            "x": " Paraesthesia oral",
+            "value": 21
         },
         {
-            "x": "received bnt162b2",
-            "value": 0.10314781639995785
+            "x": " Hypersensitivity",
+            "value": 20
         },
         {
-            "x": "subject",
-            "value": 0.10197359507429209
+            "x": " Peripheral swelling",
+            "value": 20
         },
         {
-            "x": "morning",
-            "value": 0.10176283740045464
+            "x": " Influenza like illness",
+            "value": 19
         },
         {
-            "x": "neck",
-            "value": 0.10115164014632604
+            "x": " Electrocardiogram normal",
+            "value": 19
         },
         {
-            "x": "lymph node",
-            "value": 0.10059463772261279
+            "x": " Loss of consciousness",
+            "value": 19
         },
         {
-            "x": "now",
-            "value": 0.0992819184969967
+            "x": " Swollen tongue",
+            "value": 18
         },
         {
-            "x": "night",
-            "value": 0.09925482108178903
+            "x": " Anxiety",
+            "value": 18
         },
         {
-            "x": "May",
-            "value": 0.09885739232540985
+            "x": " Lip swelling",
+            "value": 18
         },
         {
-            "x": "lot batch",
-            "value": 0.09851114757553404
+            "x": " Neck pain",
+            "value": 17
         },
         {
-            "x": "took",
-            "value": 0.09763800864106463
+            "x": " Hypotension",
+            "value": 17
         },
         {
-            "x": "vaccines",
-            "value": 0.09651497132190223
+            "x": " White blood cell count increased",
+            "value": 17
         },
         {
-            "x": "result",
-            "value": 0.0963614193023921
+            "x": " Rhinorrhoea",
+            "value": 17
         },
         {
-            "x": "ad26 cov2",
-            "value": 0.09627711623285712
+            "x": " Herpes zoster",
+            "value": 16
         },
         {
-            "x": "cov2 s",
-            "value": 0.09611754256552306
+            "x": " Resuscitation",
+            "value": 16
         },
         {
-            "x": "woke",
-            "value": 0.09535279329188433
+            "x": " Pulse absent",
+            "value": 16
         },
         {
-            "x": "said",
-            "value": 0.09481686663555482
+            "x": " Cardiac arrest",
+            "value": 16
         },
         {
-            "x": "2nd dose",
-            "value": 0.09441943787917563
+            "x": " Nasal congestion",
+            "value": 16
         },
         {
-            "x": "past",
-            "value": 0.09405211736191608
+            "x": " Dysphonia",
+            "value": 16
         },
         {
-            "x": "face",
-            "value": 0.09246240233639935
+            "x": " Seizure",
+            "value": 16
         },
         {
-            "x": "itching",
-            "value": 0.092161319945203
+            "x": " Throat irritation",
+            "value": 16
         },
         {
-            "x": "effect",
-            "value": 0.09183916178662291
+            "x": " Migraine",
+            "value": 16
         },
         {
-            "x": "dose single",
-            "value": 0.09181808601923916
+            "x": " Oxygen saturation decreased",
+            "value": 16
         },
         {
-            "x": "treatment information",
-            "value": 0.09167055564755296
+            "x": " Burning sensation",
+            "value": 15
         },
         {
-            "x": "developed",
-            "value": 0.0912791485389977
+            "x": " Abdominal pain upper",
+            "value": 15
         },
         {
-            "x": "case",
-            "value": 0.09080946000873139
+            "x": " Confusional state",
+            "value": 15
         },
         {
-            "x": "emergency room",
-            "value": 0.08755174853598688
+            "x": " Sleep disorder",
+            "value": 15
         },
         {
-            "x": "weeks prior",
-            "value": 0.08751561864904331
+            "x": " Adverse event",
+            "value": 15
         },
         {
-            "x": "swollen",
-            "value": 0.08748852123383564
+            "x": " Mobility decreased",
+            "value": 15
         },
         {
-            "x": "treated",
-            "value": 0.08622096436689901
+            "x": " Chest X-ray abnormal",
+            "value": 15
         },
         {
-            "x": "joint pain",
-            "value": 0.08522739247595104
+            "x": " Feeling cold",
+            "value": 14
         },
         {
-            "x": "know",
-            "value": 0.08428801541541843
+            "x": " Chest X-ray normal",
+            "value": 14
         },
         {
-            "x": "Concomitant product",
-            "value": 0.08327336775708673
+            "x": " Swelling",
+            "value": 14
         },
         {
-            "x": "soreness",
-            "value": 0.08281873334638024
+            "x": " Laboratory test normal",
+            "value": 14
         },
         {
-            "x": "began",
-            "value": 0.08191849699670314
+            "x": " Influenza virus test negative",
+            "value": 14
         },
         {
-            "x": "Solution",
-            "value": 0.07946467550845289
+            "x": " Wheezing",
+            "value": 14
         },
         {
-            "x": "changed",
-            "value": 0.07798033931985487
+            "x": " Tinnitus",
+            "value": 14
         },
         {
-            "x": "tested",
-            "value": 0.07761904045041926
+            "x": " Balance disorder",
+            "value": 13
         },
         {
-            "x": "head",
-            "value": 0.07652008972255257
+            "x": " Body temperature increased",
+            "value": 13
         },
         {
-            "x": "going",
-            "value": 0.0763123428726271
+            "x": " Computerised tomogram head",
+            "value": 13
         },
         {
-            "x": "eye",
-            "value": 0.07622803980309212
+            "x": " Skin warm",
+            "value": 12
         },
         {
-            "x": "well",
-            "value": 0.07590287082060006
+            "x": " Discomfort",
+            "value": 12
         },
         {
-            "x": "requested",
-            "value": 0.07568609149893868
+            "x": " Hypertension",
+            "value": 12
         },
         {
-            "x": "Sender Comment",
-            "value": 0.07502973188613064
+            "x": " Pallor",
+            "value": 12
         },
         {
-            "x": "adverse",
-            "value": 0.07465940054495913
+            "x": " Echocardiogram",
+            "value": 12
         },
         {
-            "x": "shoulder",
-            "value": 0.07452692429283274
+            "x": " Blood potassium decreased",
+            "value": 12
         },
         {
-            "x": "ERYTHEMA",
-            "value": 0.07391572703870414
+            "x": " Blood glucose normal",
+            "value": 12
         },
         {
-            "x": "urgent care",
-            "value": 0.07297634997817153
+            "x": " Full blood count normal",
+            "value": 11
         },
         {
-            "x": "prior",
-            "value": 0.07107652008972255
+            "x": " Myocardial infarction",
+            "value": 11
         },
         {
-            "x": "continued",
-            "value": 0.07107049844189862
+            "x": " Lethargy",
+            "value": 11
         },
         {
-            "x": "around",
-            "value": 0.07101329278757132
+            "x": " Injection site warmth",
+            "value": 11
         },
         {
-            "x": "unknown indication",
-            "value": 0.07076640522679031
+            "x": " Pneumonia",
+            "value": 11
         },
         {
-            "x": "ear",
-            "value": 0.07062489650292803
+            "x": " Injected limb mobility decreased",
+            "value": 11
         },
         {
-            "x": "expected",
-            "value": 0.07026359763349241
+            "x": " Lung infiltration",
+            "value": 10
         },
         {
-            "x": "applicable",
-            "value": 0.06989025546840893
+            "x": " Musculoskeletal stiffness",
+            "value": 10
         },
         {
-            "x": "nausea",
-            "value": 0.0698511147575534
+            "x": " Insomnia",
+            "value": 10
         },
         {
-            "x": "number unknown",
-            "value": 0.0692489499751607
+            "x": " Vision blurred",
+            "value": 10
         },
         {
-            "x": "getting",
-            "value": 0.06844204916675448
+            "x": " Fall",
+            "value": 10
         },
         {
-            "x": "HEADACHE Headache",
-            "value": 0.0683818326885152
+            "x": " Platelet count decreased",
+            "value": 10
         },
         {
-            "x": "provide",
-            "value": 0.06809881524079064
+            "x": " Computerised tomogram head normal",
+            "value": 10
         },
         {
-            "x": "PM",
-            "value": 0.0676983756604995
+            "x": " Computerised tomogram normal",
+            "value": 10
         },
         {
-            "x": "unspecified age",
-            "value": 0.06690050732382917
+            "x": " Cerebrovascular accident",
+            "value": 10
         },
         {
-            "x": "area",
-            "value": 0.06622608276754934
+            "x": " Limb discomfort",
+            "value": 10
         },
         {
-            "x": "1st dose",
-            "value": 0.06591295708070513
+            "x": " Hypoxia",
+            "value": 10
         },
         {
-            "x": "tested positive",
-            "value": 0.06536197630481581
+            "x": " Throat clearing",
+            "value": 9
         },
         {
-            "x": "one",
-            "value": 0.0650819696810032
+            "x": " Lymph node pain",
+            "value": 9
         },
         {
-            "x": "bed",
-            "value": 0.06496454754843663
+            "x": " Metabolic function test normal",
+            "value": 9
         },
         {
-            "x": "state",
-            "value": 0.06428711216824484
+            "x": " Aphasia",
+            "value": 9
         },
         {
-            "x": "hurt",
-            "value": 0.06394688906619296
+            "x": " Presyncope",
+            "value": 9
         },
         {
-            "x": "use",
-            "value": 0.06390473753142548
+            "x": " Muscle spasms",
+            "value": 9
         },
         {
-            "x": "four week",
-            "value": 0.06357053607719752
+            "x": " Loss of personal independence in daily activities",
+            "value": 9
         },
         {
-            "x": "today",
-            "value": 0.06355247113372574
+            "x": " Magnetic resonance imaging brain normal",
+            "value": 9
         },
         {
-            "x": "shortness",
-            "value": 0.06327246450991314
+            "x": " Angioedema",
+            "value": 9
         },
         {
-            "x": "causality assessment",
-            "value": 0.06305869601216373
+            "x": " Occupational exposure to SARS-CoV-2",
+            "value": 9
         },
         {
-            "x": "conditions included",
-            "value": 0.06293525223177322
+            "x": " Nasopharyngitis",
+            "value": 9
         },
         {
-            "x": "report received",
-            "value": 0.06263718066448884
+            "x": " Ear pain",
+            "value": 9
         },
         {
-            "x": "muscle ache",
-            "value": 0.06220964366899002
+            "x": " Abdominal discomfort",
+            "value": 9
         },
         {
-            "x": "healthcare professional",
-            "value": 0.06201695093862435
+            "x": " Retching",
+            "value": 9
         },
         {
-            "x": "unknown age",
-            "value": 0.06173995513872371
+            "x": " Cold sweat",
+            "value": 9
         },
         {
-            "x": "painful",
-            "value": 0.0612130609541301
+            "x": " Troponin normal",
+            "value": 9
         },
         {
-            "x": "later",
-            "value": 0.06119800683457028
+            "x": " Gait disturbance",
+            "value": 9
         },
         {
-            "x": "needed",
-            "value": 0.061113703765035304
+            "x": " Respiratory arrest",
+            "value": 9
         },
         {
-            "x": "products included",
-            "value": 0.06050852815873064
+            "x": " Rash erythematous",
+            "value": 9
         },
         {
-            "x": "tired",
-            "value": 0.06019239164797447
+            "x": " White blood cell count normal",
+            "value": 9
         },
         {
-            "x": "told",
-            "value": 0.05985819019374652
+            "x": " Endotracheal intubation",
+            "value": 9
         },
         {
-            "x": "clinical outcome",
-            "value": 0.059466783085191266
+            "x": " Magnetic resonance imaging brain",
+            "value": 8
         },
         {
-            "x": "came",
-            "value": 0.05914462492661117
+            "x": " Dehydration",
+            "value": 8
         },
         {
-            "x": "medications included",
-            "value": 0.057512758366326945
+            "x": " Peripheral coldness",
+            "value": 8
         },
         {
-            "x": "arms",
-            "value": 0.05738630376202448
+            "x": " Head discomfort",
+            "value": 8
         },
         {
-            "x": "work",
-            "value": 0.05677209568398392
+            "x": " Appendicectomy",
+            "value": 8
         },
         {
-            "x": "PYREXIA",
-            "value": 0.05608562783205624
+            "x": " Eye swelling",
+            "value": 8
         },
         {
-            "x": "Pfizer COVID",
-            "value": 0.0551402291236997
+            "x": " Platelet count normal",
+            "value": 8
         },
         {
-            "x": "treatment medication",
-            "value": 0.055101088412844175
+            "x": " Somnolence",
+            "value": 8
         },
         {
-            "x": "muscle pain",
-            "value": 0.055073990997636504
+            "x": " Appendicitis",
+            "value": 8
         },
         {
-            "x": "rate",
-            "value": 0.05330362653740196
+            "x": " Eye pain",
+            "value": 8
         },
         {
-            "x": "tingling",
-            "value": 0.05248167160943592
+            "x": " Computerised tomogram abnormal",
+            "value": 8
         },
         {
-            "x": "non pregnant",
-            "value": 0.05242145513119665
+            "x": " Blood test normal",
+            "value": 8
         },
         {
-            "x": "include",
-            "value": 0.05231607629427793
+            "x": " Exposure during pregnancy",
+            "value": 8
         },
         {
-            "x": "received covid",
-            "value": 0.052310054646454
+            "x": " Computerised tomogram thorax abnormal",
+            "value": 8
         },
         {
-            "x": "numbness",
-            "value": 0.05176810634230057
+            "x": " Neuropathy peripheral",
+            "value": 8
         },
         {
-            "x": "low grade",
-            "value": 0.05153928372499134
+            "x": " C-reactive protein increased",
+            "value": 8
         },
         {
-            "x": "ongoing",
-            "value": 0.051485088894576
+            "x": " Electrocardiogram abnormal",
+            "value": 8
         },
         {
-            "x": "unknown via",
-            "value": 0.05108464931428485
+            "x": " Skin discolouration",
+            "value": 8
         },
         {
-            "x": "will",
-            "value": 0.05077453445135261
+            "x": " Urine analysis",
+            "value": 8
         },
         {
-            "x": "Pt",
-            "value": 0.05044936546886055
-        },
-        {
-            "x": "female",
-            "value": 0.050337964984117904
-        },
-        {
-            "x": "see",
-            "value": 0.04969063784304575
-        },
-        {
-            "x": "expiration date",
-            "value": 0.049627410540894513
-        },
-        {
-            "x": "unspecified dose",
-            "value": 0.04930525238231442
-        },
-        {
-            "x": "second shot",
-            "value": 0.049251057551899076
-        },
-        {
-            "x": "adverse events",
-            "value": 0.04908245141282912
-        },
-        {
-            "x": "breathing",
-            "value": 0.048886747858551495
-        },
-        {
-            "x": "obtained",
-            "value": 0.048736206662953314
-        },
-        {
-            "x": "mouth",
-            "value": 0.04846222168696464
-        },
-        {
-            "x": "pregnant female",
-            "value": 0.04834781037831003
-        },
-        {
-            "x": "professional office",
-            "value": 0.04778779713068481
-        },
-        {
-            "x": "prophylactic",
-            "value": 0.04764628840682253
-        },
-        {
-            "x": "response",
-            "value": 0.047333162719978325
-        },
-        {
-            "x": "start date",
-            "value": 0.047333162719978325
-        },
-        {
-            "x": "flu",
-            "value": 0.04718563234829211
-        },
-        {
-            "x": "clinic visit",
-            "value": 0.04702304785704608
-        },
-        {
-            "x": "old non",
-            "value": 0.04696283137880681
-        },
-        {
-            "x": "temporal association",
-            "value": 0.04651120779201228
-        },
-        {
-            "x": "serious events",
-            "value": 0.04642088307465338
-        },
-        {
-            "x": "feet",
-            "value": 0.046258298583407347
-        },
-        {
-            "x": "thought",
-            "value": 0.04622216869646379
+            "x": " Vaccination complication",
+            "value": 8
         }
     ]
 }

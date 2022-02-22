@@ -28,9 +28,9 @@ const DemoWordCloud = () => {
     height: 500,
     wordField: 'x',
     weightField: 'value',
-    color: '#122c6a',
+    color: '#424242',
     wordStyle: {
-      fontFamily: 'Verdana',
+      fontFamily: 'Poppins',
       fontSize: [24, 80],
     },
     interactions: [{
@@ -45,13 +45,24 @@ const DemoWordCloud = () => {
     },
   }
 
+  const typoStyle = {
+    color: "#424242",
+    fontFamily: 'Poppins',
+    fontWeight: 700
+  }
+
+  const btnStyle = {
+    backgroundColor: "#424242",
+    fontFamily: 'Poppins'
+  } 
+
   return ( 
     <div>
-      <Typography color="#1875d2" variant="h3">{displayingMed ? "Medical History" : "Symptoms"} Word Cloud</Typography>
+      <Typography style={typoStyle} variant="h3">{displayingMed ? "Medical History" : "Symptoms"} Word Cloud</Typography>
       <br/>
       <WordCloud {...config}/>
       <br/>
-      <Button color="primary" variant="contained" disableElevation onClick={onSwitchClicked}>Switch Dataset</Button>
+      <Button style={btnStyle} variant="contained" disableElevation onClick={onSwitchClicked}>Switch Dataset</Button>
     </div>
   )
 }

@@ -7,7 +7,8 @@ const Navbar = () => {
   return (
     <AppBar elevation={0} position="static" color="inherit">
       <Toolbar>
-        <Button component={Link} to="/" variant="text" size="large" className={classes.touchBarBtn} color="primary" style={{ backgroundColor: 'transparent' }}>Word Cloud</Button>
+        <Button component={Link} to="/" variant="text" size="large" className={classes.touchBarBtn} color="primary" style={{ backgroundColor: 'transparent' }}>Home</Button>
+        <Button component={Link} to="/wordcloud" variant="text" size="large" className={classes.touchBarBtn} color="primary" style={{ backgroundColor: 'transparent' }}>Word Cloud</Button>
         <Button component={Link} to="/histogram" variant="text" size="large" className={classes.touchBarBtn} color="primary" style={{ backgroundColor: 'transparent' }}>Histogram</Button>
         <Button component={Link} to="/groupedhistogram" variant="text" size="large" className={classes.touchBarBtn} color="primary" style={{ backgroundColor: 'transparent' }}>Grouped Histogram</Button>
         <Button component={Link} to="/timeseries" variant="text" size="large" className={classes.touchBarBtn} color="primary" style={{ backgroundColor: 'transparent' }}>Time Series</Button> 

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { Area } from '@ant-design/plots'
+import { Typography } from '@mui/material'
 
 const { vaccine } = require('./vaccine-time.json')
 
@@ -14,8 +15,9 @@ const DemoArea = () => {
     data,
     width: 600,
     height: 600,
+    color: '#424242',
     xField: 'Date',
-    yField: 'scales',
+    yField: 'cases',
     xAxis: {
       tickCount: 5,
     },
@@ -28,7 +30,21 @@ const DemoArea = () => {
       },
     },
   }
-  return <Area {...config} />
+
+  const typoStyle = {
+    color: "#424242",
+    fontFamily: 'Poppins',
+    fontWeight: 700
+  }
+
+  return (
+    <div>
+      <Typography style={typoStyle} variant="h3">Number of Adverse Reaction Records versus Vaccination Dates</Typography>
+      <br/>
+      <Area {...config} />
+      <br/>
+    </div>
+  )
 }
 
 export default DemoArea
