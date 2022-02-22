@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { WordCloud } from '@ant-design/plots'
-import './WordCloud.css'
-import { Button } from '@material-ui/core/'
-import { Typography } from '@mui/material'
+import { Typography, Button } from '@mui/material'
 
 const { medical } = require('./medical-history.json')
 const { symptoms } = require('./symptoms.json')
@@ -26,6 +24,8 @@ const DemoWordCloud = () => {
 
   const config = {
     data,
+    width: 900,
+    height: 500,
     wordField: 'x',
     weightField: 'value',
     color: '#122c6a',
@@ -47,13 +47,11 @@ const DemoWordCloud = () => {
 
   return ( 
     <div>
-      <header className="WordCloud-header">
-        <Typography color="#3F51B5" variant="h3">{displayingMed ? "Medical History" : "Symptoms"} Word Cloud</Typography>
-        <br/>
-        <WordCloud {...config}/>
-        <br/>
-      </header>
-      <Button className="switch-btn" color="primary" variant="contained" onClick={onSwitchClicked}>Switch</Button>
+      <Typography color="#1875d2" variant="h3">{displayingMed ? "Medical History" : "Symptoms"} Word Cloud</Typography>
+      <br/>
+      <WordCloud {...config}/>
+      <br/>
+      <Button color="primary" variant="contained" disableElevation onClick={onSwitchClicked}>Switch Dataset</Button>
     </div>
   )
 }

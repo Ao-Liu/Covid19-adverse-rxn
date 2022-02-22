@@ -12,6 +12,8 @@ const DemoArea = () => {
 
   const config = {
     data,
+    width: 600,
+    height: 600,
     xField: 'Date',
     yField: 'scales',
     xAxis: {

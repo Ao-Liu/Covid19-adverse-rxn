@@ -1,0 +1,92 @@
+{
+    "days_after": [
+        {
+            "days": 0,
+            "cases": 292
+        },
+        {
+            "days": 1,
+            "cases": 612
+        },
+        {
+            "days": 2,
+            "cases": 392
+        },
+        {
+            "days": 3,
+            "cases": 283
+        },
+        {
+            "days": 4,
+            "cases": 239
+        },
+        {
+            "days": 5,
+            "cases": 211
+        },
+        {
+            "days": 6,
+            "cases": 157
+        },
+        {
+            "days": 7,
+            "cases": 192
+        },
+        {
+            "days": 8,
+            "cases": 133
+        },
+        {
+            "days": 9,
+            "cases": 151
+        },
+        {
+            "days": 10,
+            "cases": 124
+        },
+        {
+            "days": 11,
+            "cases": 112
+        },
+        {
+            "days": 12,
+            "cases": 128
+        },
+        {
+            "days": 13,
+            "cases": 107
+        },
+        {
+            "days": 14,
+            "cases": 113
+        },
+        {
+            "days": 15,
+            "cases": 117
+        },
+        {
+            "days": 16,
+            "cases": 96
+        },
+        {
+            "days": 17,
+            "cases": 80
+        },
+        {
+            "days": 18,
+            "cases": 92
+        },
+        {
+            "days": 19,
+            "cases": 109
+        },
+        {
+            "days": 20,
+            "cases": 89
+        },
+        {
+            "days": 21,
+            "cases": 103
+        }
+    ]
+}
