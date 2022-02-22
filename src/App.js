@@ -2,6 +2,7 @@ import './App.css';
 import DemoWordCloud from './components/WordCloud/DemoWordCloud'
 import DemoArea from './components/TimeSeries/DemoArea'
 import BasicHistogram from './components/Histogram/BasicHistogram'
+import GroupedHistogram from './components/Histogram/GroupedHistogram'
 import NavBar from './components/NavBar/NavBar';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
@@ -15,6 +16,7 @@ function App() {
             <Route exact path="/" element={<DemoWordCloud />}/>
             <Route path="/timeseries" element={<DemoArea />}/>
             <Route path="/histogram" element={<BasicHistogram />}/>
+            <Route path="/groupedhistogram" element={<GroupedHistogram />}/>
           </Routes>
           </header>
         </BrowserRouter>

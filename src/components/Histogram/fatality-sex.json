@@ -1,0 +1,114 @@
+{
+    "fatality_sex": [
+        {
+            "name": "Male",
+            "age": "0-9",
+            "cnt": 2
+        },
+        {
+            "name": "Female",
+            "age": "0-9",
+            "cnt": 1
+        },
+        {
+            "name": "Male",
+            "age": "10-19",
+            "cnt": 25
+        },
+        {
+            "name": "Female",
+            "age": "10-19",
+            "cnt": 24
+        },
+        {
+            "name": "Male",
+            "age": "20-29",
+            "cnt": 72
+        },
+        {
+            "name": "Female",
+            "age": "20-29",
+            "cnt": 42
+        },
+        {
+            "name": "Male",
+            "age": "30-39",
+            "cnt": 128
+        },
+        {
+            "name": "Female",
+            "age": "30-39",
+            "cnt": 87
+        },
+        {
+            "name": "Male",
+            "age": "40-49",
+            "cnt": 221
+        },
+        {
+            "name": "Female",
+            "age": "40-49",
+            "cnt": 123
+        },
+        {
+            "name": "Male",
+            "age": "50-59",
+            "cnt": 423
+        },
+        {
+            "name": "Female",
+            "age": "50-59",
+            "cnt": 313
+        },
+        {
+            "name": "Male",
+            "age": "60-69",
+            "cnt": 1029
+        },
+        {
+            "name": "Female",
+            "age": "60-69",
+            "cnt": 678
+        },
+        {
+            "name": "Male",
+            "age": "70-79",
+            "cnt": 1384
+        },
+        {
+            "name": "Female",
+            "age": "70-79",
+            "cnt": 946
+        },
+        {
+            "name": "Male",
+            "age": "80-89",
+            "cnt": 1312
+        },
+        {
+            "name": "Female",
+            "age": "80-89",
+            "cnt": 1020
+        },
+        {
+            "name": "Male",
+            "age": "90-99",
+            "cnt": 495
+        },
+        {
+            "name": "Female",
+            "age": "90-99",
+            "cnt": 586
+        },
+        {
+            "name": "Male",
+            "age": "100-109",
+            "cnt": 23
+        },
+        {
+            "name": "Female",
+            "age": "100-109",
+            "cnt": 42
+        }
+    ]
+}
