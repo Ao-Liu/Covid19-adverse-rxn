@@ -12,7 +12,8 @@ const HomePage = () => {
     const descriptionStyle = {
         color: "#424242",
         fontFamily: 'Poppins',
-        padding: 80 
+        paddingLeft: 120,
+        paddingRight: 120
     }
 
     return (

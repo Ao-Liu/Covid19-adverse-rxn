@@ -13,8 +13,8 @@ const DemoArea = () => {
 
   const config = {
     data,
-    width: 600,
-    height: 600,
+    width: 400,
+    height: 500,
     color: '#424242',
     xField: 'Date',
     yField: 'cases',
@@ -39,7 +39,7 @@ const DemoArea = () => {
 
   return (
     <div>
-      <Typography style={typoStyle} variant="h3">Number of Adverse Reaction Records versus Vaccination Dates</Typography>
+      <Typography style={typoStyle} variant="h4">Number of Adverse Reaction Records vs Vaccination Dates</Typography>
       <br/>
       <Area {...config} />
       <br/>
