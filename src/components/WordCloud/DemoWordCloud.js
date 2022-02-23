@@ -7,10 +7,10 @@ const { symptoms } = require('./symptoms.json')
 
 const DemoWordCloud = () => {
   const [data, setData] = useState([])
-  const [displayingMed, setDisplay] = useState(true)
+  const [displayingMed, setDisplay] = useState(false)
 
   useEffect(() => {
-    setData(medical)
+    setData(symptoms)
   }, [])
 
   const onSwitchClicked = () => {
